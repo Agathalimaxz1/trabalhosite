@@ -1,0 +1,36 @@
+.navbar { 
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: rgb(100, 19, 35);
+color: rgb(0, 0, 0);
+padding: 10px 20px;
+font-size: 30px;
+border-radius: 15px;  
+}
+
+a {
+    color: rgb(255, 255, 255);
+}
+
+.navlinks li {
+    margin-left: 20px;
+    color: black;
+
+}
+ h1 { 
+
+font-family: sans-serif;
+color: rgb(0, 0, 0);
+
+
+ }
+
+ p{
+font-family: Helvetica;
+font-size: 20px;
+color: rgb(0, 0, 0);
+
+ }
+
+ 
