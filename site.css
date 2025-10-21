@@ -4,16 +4,18 @@
     box-sizing: border-box;
 
 }
-
 .navbar h1 {
-    color: white;
-    font-family:Georgia
+    color: white
+
+
 }
+
 
 .navbar {
     position: relative;
     height: 100px;
-    background-image: url(https://tm.ibxk.com.br//2023/05/08/08124551219134.jpg?ims=1200x675);
+    /* background-image: url(https://tm.ibxk.com.br//2023/05/08/08124551219134.jpg?ims=1200x675); */
+    background-color: rgb(83, 20, 20);
     background-size: cover;
     background-position: center;
     display: flex;
@@ -30,33 +32,17 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(114, 12, 12, 0.6);
+    background-color: rgba(94, 17, 17, 0.6);
     z-index: 1;
 
 }
 
-.textonav {
-    position: relative;
-    z-index: 2;
-    font-size: 24px;
-    padding: 20px;
-
-
+.pagina {
+background-color:rgb(168, 72, 72);
+padding: 2rem;
 
 }
 
-h1 {
-
-    font-family: sans-serif;
-    color: rgb(0, 0, 0);
 
 
 
-}
-
-p {
-    font-family: Helvetica;
-    font-size: 20px;
-    color: rgb(0, 0, 0);
-
-}
